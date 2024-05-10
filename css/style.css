@@ -4,19 +4,19 @@ html {
 
 @font-face {
     font-family: 'DMSansRegular';
-    src: url(../font/DMSansRegular.woff);
+    src: url(../fonts/DMSansRegular.woff);
     src: local('DMSansRegular'), local('DMSansRegular'),
-        url(../font/DMSansRegular.woff2) format('woff2'),
-        url(../font/DMSansRegular.woff) format('woff');
+        url(../fonts/DMSansRegular.woff2) format('woff2'),
+        url(../fonts/DMSansRegular.woff) format('woff');
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Rosario-Bold';
-    src: url(../font/Rosario-Bold.woff);
+    src: url(../fonts/Rosario-Bold.woff);
     src: local('Rosario-Bold'), local('Rosario-Bold'),
-        url(../font/Rosario-Bold.woff2) format('woff2'),
-        url(../font/Rosario-Bold.woff) format('woff');
+        url(../fonts/Rosario-Bold.woff2) format('woff2'),
+        url(../fonts/Rosario-Bold.woff) format('woff');
     font-style: normal;
 }
 
